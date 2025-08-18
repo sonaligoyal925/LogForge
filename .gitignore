@@ -1,0 +1,6 @@
+# Never commit env files
+.env
+.env.*
+*.env
+*.env.*
+!.env.example  # allow the example file
